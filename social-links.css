@@ -78,11 +78,9 @@ a:hover{
 {
     .social-container{
         width: 250px;
-        min-height: 100vh; /*ensure the container takes the full height of the screen*/
         display: flex;
         flex-direction: column;
-        justify-content: space-evenly;
-        align-items: center;
+        justify-content: center;
     }
     .avatar{
         width: 80px;
