@@ -1,0 +1,27 @@
+# Ignore design files
+*.sketch
+*.fig
+*.xd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+*.code-workspace
+
+# Ignore node modules (if applicable)
+node_modules/
+
+# Ignore build or dist folders (if applicable)
+dist/
+build/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore Prettier configuration files
+.prettierignore
